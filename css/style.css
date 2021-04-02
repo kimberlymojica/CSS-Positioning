@@ -1,0 +1,52 @@
+/*===================================
+Universal Styling
+=================================*/
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+h1{
+  font-family: 'Creepster', cursive;
+  font-size: 48px;
+  text-align: center;
+  padding: 10px 0 20px 0;
+}
+
+/*===================================
+Header Styling
+=================================*/
+header{
+text-align: center;
+}
+
+header nav li{
+  display: inline-block;
+  margin: -10px;
+}
+
+header nav a{
+  padding: 15px 60px;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+header nav li a:hover{
+  color: green;
+}
+/*===================================
+ Styling
+=================================*/
+.container{
+  margin: 30px 0 0 250px;
+  max-width: 900px;
+  background-color: red;
+  padding: 20px;
+}
+h2{
+  text-align: center;
+  padding: 20px;
+  font-family: 'Creepster', cursive;
+}
