@@ -10,7 +10,8 @@ max-width: 1800px;
 
 .page{
   background-color: black;
-  height: 1200px;
+  height: 2100px;
+  margin: -1200px 0 0 0;
 }
 h1{
   font-family: 'Creepster', cursive;
@@ -52,7 +53,10 @@ pennywise Styling
 
 
 =================================*/
-
+.penny{
+padding: 150px 0 0 350px;
+  z-index: -5px;
+}
 /*===================================
 Body Styling
 
@@ -61,8 +65,9 @@ Body Styling
 h2{
   font-family: 'Creepster',cursive;
   color: white;
-  padding: 200px 0 0 500px;
+  padding: 830px 0 0 500px;
   font-size: 36px;
+  z-index: 99998;
 }
 
 .element{
@@ -81,5 +86,20 @@ h2{
   width: 400px;
   float: left;
   margin: 50px 80px;
+}
 
+.now{
+  margin: -700px 0 0 0;
+}
+
+.purge{
+  position: relative;
+}
+
+.jack{
+  position: absolute;
+}
+.author{
+  font-weight: bold;
+  color: red;
 }
