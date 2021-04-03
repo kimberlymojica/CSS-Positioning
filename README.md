@@ -15,7 +15,7 @@ In order for this to work correctly, please make sure you create a section as fo
 <h2>What's your Element?</h2>
 
   <div class="element">
-<p>Horror is loved by many and of all ages. Whether it's bloody, scary, giving you a mind trip or straight out so bad you can't help but laugh and keep watching, there's a horror movie and book out there for everyone.But what exactly makes the horror genre so likeable? Here are some general elements that keeps the audience glued to the horror genre: </p>
+<p>Horror is loved by many and of all ages. Whether it's bloody, scary, giving you a mind trip or straight out so bad you can't help but laugh and keep watching, there's a horror movie and book out there for everyone. But what exactly makes the horror genre so likeable? Here are some general elements that keeps the audience glued to the horror genre: </p>
 </div>
 
 <div class="list">
